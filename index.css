@@ -1,0 +1,34 @@
+p{
+    text-align: center;
+    border: 1rem groove white;
+    font-size: 120%;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img{
+    border: white groove 2rem;
+    position: relative; 
+    float: left;
+    left: 15pt;
+    height: 500px;
+}
+#right{
+    border: white groove 2rem;
+    position: absolute;
+    top: 3rem;
+    right: 35pt;        
+    height: 500px;
+}
+h1{
+    text-align: center;
+    border: 1rem groove white;
+    font-size: 150%;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: lightgray;
+    border: white 2rem double;
+}
