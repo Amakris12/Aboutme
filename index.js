@@ -1,5 +1,5 @@
 var score = document.createElement('IMG');
-score.src = 'images/huff.jpeg';
+score.src = 'huff.jpeg';
 document.body.appendChild(score);
 score.setAttribute('id','img');
 
@@ -53,6 +53,6 @@ document.body.appendChild(me);
 
 
 var man = document.createElement('IMG');
-man.src = 'images/G.jpeg';
+man.src = 'G.jpeg';
 document.body.appendChild(man);
 man.setAttribute('id','right');
